@@ -1,0 +1,42 @@
+body{
+  background:  #E8F9FD;
+}
+.s01 {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.s1{
+  font-size: 8rem;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  color:#000000;
+  margin-top: 2%;}
+  .s11{
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color:#000000;
+    margin-top: 2%;
+}
+.s10{
+  color: #000000;
+  width:10%;
+}
+.s2{
+  margin-top: 5%;
+  margin-right: 2%;
+  display:inline-block;
+  font-size: 5rem;
+  color: #000000;
+  font-family: 'Lobster', cursive;
+}
+
+
+.s3{
+  color: #000000;
+  font-size: 2rem;
+  font-family: 'Lobster', cursive;
+  font-weight: lighter;
+  margin-top: 15%;
+}
